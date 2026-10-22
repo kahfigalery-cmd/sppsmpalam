@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Pembayaran SPP SMP Alam Excellentia Pamekasan",
+  "description": "Aplikasi administrasi keuangan dan pendataan pembayaran SPP bulanan, pemantauan tunggakan, kuitansi digital, dan laporan keuangan sekolah SMP Alam Excellentia Pamekasan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
